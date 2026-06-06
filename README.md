@@ -1,6 +1,6 @@
-Deloitte Australia - Daikibo Telemetry Analysis
-Business Overview
+# Deloitte Australia - Daikibo Telemetry Analysis
 
+### 📊 Business Overview
 Analyzed **160,704 rows** of raw telemetry infrastructure JSON data for our client, **Daikibo**. Developed an interactive executive tracking dashboard in Tableau Public to isolate critical system maintenance anomalies.
 
 ### 🚨 Key Discoveries (Mid-Level Diagnostic)
